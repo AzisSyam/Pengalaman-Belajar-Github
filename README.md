@@ -1,4 +1,4 @@
-# Pengalaman-Belajar-Github
+# Pengalaman-Belajar
 Repositori ini berisi cerita saat saya belajar di Dicoding 
 
 **14 Juni 2021**  
